@@ -1,0 +1,16 @@
+.children {
+  margin-left: 20px;
+}
+
+.isFolder{
+  background-color: lightgrey;
+  width:80%;
+  margin-top: 5px;
+  display: inline,
+  height : 20px;
+}
+
+.but{
+  height:20%;
+  background-color: lightyellow;
+}
